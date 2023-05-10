@@ -1,0 +1,18 @@
+.fa-lg {
+    padding-left: 27px;
+}
+
+.notification {
+    position: absolute;
+    top: 2px;
+    right: 3px;
+}
+
+img.logo {
+    width: 45px;
+    height: 45px;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    margin-bottom: 36px;
+}
